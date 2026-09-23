@@ -39,6 +39,7 @@ Minha especialidade é construir o ciclo de vida completo da informação de for
 
 <img src="https://img.shields.io/badge/Generative_AI-0b8793?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Prompt_Engineering-360033?style=for-the-badge&logo=probot&logoColor=white"/> <img src="https://img.shields.io/badge/Agentic_AI-a855f7?style=for-the-badge&logo=robot&logoColor=white"/> 
 <br>
+
 <img src="https://skillicons.dev/icons?i=html,css,js,linux,git,github,figma&theme=dark" alt="DevOps & Front-End"/>
 
 
