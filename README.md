@@ -1,19 +1,14 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:360033,100:0b8793&height=240&section=header&text=Gabriel%20Vieira&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Analista%20de%20Dados%20%7C%20Analytics%20Engineer&descSize=22&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="Gabriel Vieira banner"/>
-</div>
 
-<div align="center">
-  <!-- Efeito de digitação animada com as cores do tema -->
+  <!-- Efeito de digitação: Mais rápido, maior e sem espaços vazios -->
   <a href="https://github.com/GabrielVieiraDL">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Data-Driven+Mindset;AI-Driven+Solutions;Analytics+Engineer;Prompt+Engineering;Vibe+Coding;Agentic+AI+Enthusiast&font=Fira+Code&center=true&width=500&height=50&color=0b8793&vCenter=true&size=22" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com/?lines=AI-Driven+Solutions;Data-Driven+Mindset;Prompt+Engineering;Vibe+Coding;Agentic+AI&font=Fira+Code&center=true&width=600&height=60&color=0b8793&vCenter=true&size=30&pause=500" alt="Typing SVG">
   </a>
-</div>
 
-<div align="center">
+  <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-vieira-dl/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gabrielvieiradl@outlook.com)
-
-![Open to work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20work-0b8793?style=flat-square)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-vieira-dl/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gabrielvieiradl@outlook.com) ![Open to work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20work-0b8793?style=flat-square)
 
 </div>
 
